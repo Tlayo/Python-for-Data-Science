@@ -1,0 +1,11 @@
+name,age,department,cgpa,admission_date,gender,year,month,day
+Bill,32,Biology Education,4.6,2020-04-17 13:45:00,Male,2020,4,17
+Tayo,45,Electrical Engineering,3.9,2009-09-11 14:30:00,Female,2009,9,11
+Jack,28,Computer Science,2.9,2010-03-12 15:00:00,Male,2010,3,12
+Liam,23,Law,3.0,2011-08-21 13:00:00,Male,2011,8,21
+Sophie,40,Civil Engineering,4.8,2018-12-16 15:45:00,Female,2018,12,16
+Esther,24,Psychology,3.6,2019-06-19 14:40:00,Female,2019,6,19
+Drack,22,Physiology,4.2,2022-01-17 14:00:00,Male,2022,1,17
+Andrew,19,Industrial Chemistry,4.5,2017-04-23 16:00:00,Male,2017,4,23
+Favour,25,Pharmacy,3.9,2015-07-14 10:07:00,Female,2015,7,14
+David,27,Demography,4.0,2016-04-29 08:00:00,Male,2016,4,29
